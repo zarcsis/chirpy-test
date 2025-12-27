@@ -46,3 +46,11 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: true
+
+- type: telegram
+  icon: "fa-brands fa-telegram"
+  url: "https://t.me/zarcsis"
+
+- type: whatsapp
+  icon: "fa-brands fa-whatsapp"
+  url: "https://wa.me/5491166770051"
