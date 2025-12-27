@@ -1,4 +1,5 @@
-#  The contact options.
+# The contact options.
+# icons powered by <https://fontawesome.com/>
 
 - type: github
   icon: "fab fa-github"
@@ -6,12 +7,8 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true
-
 - type: linkedin
-  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/mefazm"
 
 - type: stack-overflow
@@ -25,3 +22,11 @@
 - type: threads
   icon: "fa-brands fa-threads"
   url: "https://www.threads.com/@oleksiimoskalenk"
+
+- type: youtube
+  icon: "fa-brands fa-youtube"
+  url: "https://www.youtube.com/@Mefazm512"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true
