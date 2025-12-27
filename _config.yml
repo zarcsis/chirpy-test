@@ -14,22 +14,22 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: RDVR # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: RDVR - Remote Desktop Client for Meta Quest 3, 3s, pro, 2. Control Your PC in VR.
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  RDVR - Remote Desktop Client for Meta Quest 3, 3s, pro, 2. Control Your PC in VR.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://zarcsis.github.io"
 
 github:
-  username: zarcsis # change to your GitHub username
+  username: zarcsis
 
 twitter:
-  username: _astr0n_ # change to your X username
+  username: _astr0n_
 
 social:
   # Change to your full name.
@@ -39,9 +39,6 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/zarcsis
-    - https://x.com/_astr0n_
-    - https://www.facebook.com/zarcsis
-    - https://www.linkedin.com/in/mefazm
 
 # Site Verification Settings
 webmaster_verifications:
@@ -97,7 +94,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/RDVR.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
