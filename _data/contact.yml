@@ -27,6 +27,22 @@
   icon: "fa-brands fa-youtube"
   url: "https://www.youtube.com/@Mefazm512"
 
+- type: facebook
+  icon: "fa-brands fa-facebook"
+  url: "https://www.facebook.com/zarcsis"
+
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url: "https://www.instagram.com/oleksiimoskalenk/"
+
+- type: tiktok
+  icon: "fa-brands fa-tiktok"
+  url: "https://www.tiktok.com/@mefazm"
+
+- type: twitch
+  icon: "fa-brands fa-twitch"
+  url: "https://www.twitch.tv/zarcsis"
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true
