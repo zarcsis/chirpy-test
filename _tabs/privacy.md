@@ -7,7 +7,7 @@ order: 1
 
 Effective Date: 27 December 2025
 
-Thank you for using RDVR. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our application and website (<{{site.url}}/{{site.baseurl}}>).
+Thank you for using RDVR. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our application and website (<{{site.url}}{{site.baseurl}}>).
 
 1. Information We Collect
 RDVR does not collect, store, or share any personal data. The application operates locally on your device and does not transmit user information to external servers.
