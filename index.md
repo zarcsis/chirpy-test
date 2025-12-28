@@ -94,7 +94,7 @@ Use multiple displays during the session. You can add and remove them dynamicall
 ## Customization API
 
 You can configure preloaded, read-only profiles and a custom splash screen with your own logo using a config file.
-Simply download **[this](/assets/RDVR.zip)** file, unpack it to the headset's storage, and set up the profiles and splash
+Simply download **[this](/assets/files/RDVR.zip)** file, unpack it to the headset's storage, and set up the profiles and splash
 screen in ``config.json``
 
 # Screenshots
